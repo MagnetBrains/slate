@@ -9,7 +9,7 @@ language_tabs: # must be one of https://git.io/vQNgJ
 
 toc_footers:
   - <a href='#'>Sign Up for a Developer Key</a>
-  - <a href='https://github.com/lord/slate'>Documentation Powered by Slate</a>
+  - <a href='https://pabbly.com'>Documentation Powered by Pabbly</a>
 
 includes:
   - errors
@@ -19,7 +19,7 @@ search: true
 
 # Introduction
 
-Welcome to the Pabbly API! You can use our API to access Kittn API endpoints, which can get information on various cats, kittens, and breeds in our database.
+Welcome to the Pabbly API Reference! You can use our API to access Kittn API endpoints, which can get information on various cats, kittens, and breeds in our database.
 
 We have language bindings in Shell, Ruby, Python, and JavaScript! You can view code examples in the dark area to the right, and you can switch the programming language of the examples with the tabs in the top right.
 
@@ -27,7 +27,7 @@ This example API documentation page was created with [Slate](https://github.com/
 
 # Authentication
 
-> To authorize, use this code:
+> To authorize, use this code1:
 
 ```ruby
 require 'kittn'
@@ -68,6 +68,12 @@ You must replace <code>meowmeowmeow</code> with your personal API key.
 # Kittens
 
 ## Get All Kittens
+
+### Get All Kittens1
+
+#### Get All Kittens2
+
+##### Get All Kittens3
 
 ```ruby
 require 'kittn'
